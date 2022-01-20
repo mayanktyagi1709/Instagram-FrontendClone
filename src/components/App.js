@@ -5,11 +5,15 @@ import Sidebar from "./Sidebar";
 
 function App() {
   return (
-    <>
+    <div className="App">
       <Navigation />
-      <Cards/>
-      <Sidebar/>
-    </>
+      <main>
+        <div className="container">
+          <Cards />
+          <Sidebar />
+        </div>
+      </main>
+    </div>
   );
 }
 
