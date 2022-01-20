@@ -8,9 +8,11 @@ This project is a simplified front end clone of Instagram Home Page. It is creat
 * Media Queries
 
 ### Running Locally
-`# Install dependencies`
-`npm install`
+```sh
+# Install dependencies
+npm install
 
-`# Start the app`
-`npm start`
+# Start the app
+npm start
+```
 
